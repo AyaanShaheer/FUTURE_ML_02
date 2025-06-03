@@ -31,7 +31,7 @@ Here's a more polished and **attractive README** for your **AI Stock Predictor P
 
 ## 🖼️ App Previews
 
-| 📊 Price Prediction                                                                              | 🔮 Forecasting                                                                                   | 📋 Tabular Data                                                                                  |
+| 📊 Model Performance Metrics                                                                              | 🔮 Forecasting                                                                                   | 📋 Analaysis                                                                                  |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | ![Screenshot 1](https://github.com/user-attachments/assets/ca17a174-219b-4031-acd7-ecade701dc5f) | ![Screenshot 2](https://github.com/user-attachments/assets/82c1ee04-ac36-4556-947d-cede66722b03) | ![Screenshot 3](https://github.com/user-attachments/assets/2b3887a7-38d6-4495-b5ec-720a9ea41a5c) |
 
