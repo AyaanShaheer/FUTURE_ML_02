@@ -125,7 +125,7 @@ stock_predictor/
 ## 📬 Contact
 
 Have questions or suggestions?
-📧 Email: [gfever@example.com](mailto:gfever@example.com)
+📧 Email: [gfever@example.com](mailto:gfever252@gmail.com)
 💬 Or open an issue [here](https://github.com/AyaanShaheer/FUTURE_ML_02/issues)
 
 ---
@@ -148,4 +148,4 @@ Licensed under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you'd like this formatted in Markdown or pushed to your GitHub directly!
+
